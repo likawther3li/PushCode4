@@ -3,5 +3,7 @@ public class Message {
         System.out.println("********************");
         System.out.println("* *");
         System.out.println("* \"Keep Learning\" *");
+        System.out.println("* *");
+
 }
     }
